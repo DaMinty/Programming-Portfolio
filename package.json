@@ -2,6 +2,10 @@
   "name": "programming-portfolio",
   "private": true,
   "type": "module",
+  "packageManager": "npm@10.9.2",
+  "engines": {
+    "node": ">=22.22.0"
+  },
   "scripts": {
     "build": "react-router build",
     "dev": "react-router dev",
